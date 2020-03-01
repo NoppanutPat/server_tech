@@ -1,4 +1,4 @@
-# server_tech
+# server tech simple login
 
 เอาไฟล์ไปใช้ได้เลยนะ
 ## ไฟล์ที่จะต้องใช้
