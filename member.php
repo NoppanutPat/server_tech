@@ -1,4 +1,4 @@
 <?php
 
-$Username = "pat";
-$Password = "pat";
+$Username = "your name";
+$Password = "your password";
